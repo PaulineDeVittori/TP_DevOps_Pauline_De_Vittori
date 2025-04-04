@@ -28,8 +28,6 @@ J'utilise différentes technologies :
 
 - **MongoDB** : MongoDB Atlas ou MongoDB en local
 
-### Étapes d'installation
-
-1. Clonez ce dépôt dans votre machine locale :
+Dépôt à cloner
    ```bash
    git clone https://github.com/PaulineDeVittori/TP_DevOps_Pauline_De_Vittori
